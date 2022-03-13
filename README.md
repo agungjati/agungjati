@@ -6,6 +6,7 @@
 <br />
 <br />
 hi, i'm Agung, a passionate self-taught full stack web developer and a freelance software engineer from Indonesia.
+so far I prefer to work with JavaScript
 <br />
 <br />
 languages and tools:
