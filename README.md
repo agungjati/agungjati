@@ -8,6 +8,7 @@
 hi, i'm Agung, a passionate self-taught full stack web developer and a freelance software engineer from Indonesia.
 so far I prefer to work with JavaScript and .NET
 <br />
+my portofolio : https://codepen.io/agungjati
 <br />
 languages and tools:
 <br />
