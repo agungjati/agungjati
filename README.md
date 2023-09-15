@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/agung-jati-589536149/">
-  <img align="left" alt="Agung's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <br />
 <br />
 hi, i'm Agung, a passionate self-taught full stack web developer and a freelance software engineer from Indonesia.
@@ -27,9 +24,6 @@ languages and tools:
 
 <br />
 <br />
-📈 my github stats
-<br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=agungjati&show_icons=true&theme=gotham" alt="agungjati" />
 
 <!--
 **agungjati/agungjati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
